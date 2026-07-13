@@ -1,18 +1,3 @@
-<h1 align="center">🔓 Write-ups — VulnHub</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/machines-2-blue" alt="machines">
-  <img src="https://img.shields.io/badge/platform-VulnHub-orange" alt="platform">
-  <img src="https://img.shields.io/badge/difficulty-Beginner-brightgreen" alt="difficulty">
-</p>
-<p align="center">
-Разборы уязвимых машин VulnHub: от сканирования до получения root.<br>
-Каждый write-up включает цепочку эксплуатации, использованные инструменты и разбор причин уязвимостей.
-</p>
-
-📋 Обзор
-
-МашинаСложностьВектор входаPrivilege EscalationКлючевые техникиDC-2🟢 BeginnerWordPress + брутфорс (Cewl-словарь)sudo git help config → GTFOBinWPScan, Cewl, обход rbash через vi, GTFOBinsDC-7🟢 BeginnerУтечка credentials на GitHubSudo-misconfiguration (backup.sh)OSINT, Drupal drush, RCE через PHP filter module
-
 🖥️ DC-2
 
 Show Image Show Image Show Image
